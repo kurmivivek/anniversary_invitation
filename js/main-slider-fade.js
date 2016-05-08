@@ -12,7 +12,7 @@
 			animationSpeed:1000,
 			pauseOnAction: false,
 			animationLoop: true, 
-			pauseOnHover: true,			
+			pauseOnHover: false,			
 		});
 	});
 	
